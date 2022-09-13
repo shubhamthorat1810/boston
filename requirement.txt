@@ -1,0 +1,6 @@
+Flask==2.2.2
+numpy==1.23.0
+andas==1.4.3
+pip==22.2.2
+sklearn==0.0
+wheel==0.37.1
